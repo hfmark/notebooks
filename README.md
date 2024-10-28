@@ -1,6 +1,6 @@
 ## Notebooks
 
-To view notebooks online visit [nbviewer](http://nbviewer.jupyter.org/github/hfmark/notebooks/tree/master/).
+To view notebooks online visit [nbviewer](http://nbviewer.jupyter.org/github/hfmark/notebooks/tree/main/).
 
 If you want to run notebooks locally, you will need to install the relevant dependencies. These are essentially the dependencies of [rf](https://github.com/trichter/rf), plus [telewavesim](https://github.com/paudetseis/Telewavesim) for the harmonic decomposition demo.
 The easiest way to install the dependencies is via [anaconda](https://conda.io/miniconda.html):
